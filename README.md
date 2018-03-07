@@ -5,6 +5,8 @@ Url github du sujet : https://github.com/moll/js-must
 
 Fork du projet pour le PR : https://github.com/herintsoa-hasina/js-must avec la branche `feat-improvement-length-error-message-assertion`
 
+Url du PR : https://github.com/moll/js-must/pull/73
+
 Point traité : **Amélioration du message d'erreur pour l'assertion `length()` en y ajoutant la
 différence entre la longueur attendue et la longuer actuelle**
 
