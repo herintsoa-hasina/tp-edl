@@ -68,7 +68,7 @@ puis `npm install` et `npm test`. Le fichier `package.json` au niveau du `devDep
 ```
 "devDependencies": {
     "mocha": "5.0.1",
-    "must": "git://github.com/herintsoa-hasina/js-must.git#36454a51a18df9f32d0341b8ea12d4d74381ede5"
+    "must": "git://github.com/herintsoa-hasina/js-must.git#127877732fa329ba1a5fb38ab8859609ee649cc3"
 }
 ```
 En sortie du test :
